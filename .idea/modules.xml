@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MuseApp.iml" filepath="$PROJECT_DIR$/MuseApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MuseAppAndroid.iml" filepath="$PROJECT_DIR$/MuseAppAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
